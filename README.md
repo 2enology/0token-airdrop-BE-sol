@@ -1,1 +1,1 @@
-# 0token-airdrop-BE-sol
+# token2022-airdrop
